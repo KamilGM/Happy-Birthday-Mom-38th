@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #ff5f6d, #b06cff);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+    margin: 0;
+}
