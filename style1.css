@@ -8,9 +8,27 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.birthday {
+    text-align: center;
+}
+
 h1 {
     color: white;
     font-size: 4rem;
-    text-align: center;
-    margin: 0;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 15px 35px;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover {
+    transform: scale(1.05);
 }
