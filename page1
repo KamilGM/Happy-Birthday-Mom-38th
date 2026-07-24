@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Mum!</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+    <div class="birthday">
+        <p>Hi mom, I want to wish you a Happy Birthday.
+        I made this for you just incase,
+        so if anything went wrong on your birthday I'd still have something to give, (not that I wouldn't give it to you if everything did go well)</p>
+    </div>
+
+</body>
+</html>
